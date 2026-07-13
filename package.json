@@ -1,0 +1,22 @@
+{
+  "name": "pi-omlx-context-store",
+  "version": "1.0.0",
+  "description": "Pi extension that stores large inputs in a local SQLite index with FTS5 full-text search, allowing the LLM to query and retrieve full chunk content or snippets. Keeps large imports out of the context window while enabling efficient retrieval.",
+  "keywords": [
+    "pi-package",
+    "omlx",
+    "sqlite",
+    "fts5",
+    "context-store",
+    "local-index"
+  ],
+  "pi": {
+    "extensions": [
+      "./index.js"
+    ]
+  },
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "^12.0.0"
+  }
+}

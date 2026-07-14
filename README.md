@@ -1,3 +1,8 @@
+<img width="1902" height="954" alt="image" src="https://github.com/user-attachments/assets/96931b25-e33e-4109-9440-0fe139b11951" />
+<img width="1902" height="954" alt="image" src="https://github.com/user-attachments/assets/560163d3-a4a5-4fe4-a430-299a938c06e9" />
+
+
+
 # pi-omlx-context-store
 
 A Pi extension that stores large inputs in a local SQLite index with FTS5 full-text search, allowing the LLM to query and retrieve full chunk content or snippets. Keeps large imports out of the context window while enabling efficient retrieval.

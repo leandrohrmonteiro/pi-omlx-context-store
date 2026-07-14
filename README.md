@@ -19,7 +19,9 @@ This extension solves that by:
 
 ## Important note:
 This extension only intercepts large inputs that are introduced through input window, if a request is made to the model to access a large file that has not been processed by the extension, the prefill context will receive the full raw file and depending on the memory available, will result in an error.
-<img width="1902" height="954" alt="image" src="https://github.com/user-attachments/assets/a23bb780-2f2e-4d51-b9f5-03da5bf9cb77" />
+<img width="1892" height="111" alt="image" src="https://github.com/user-attachments/assets/042e7b27-1e27-4e01-b362-ad2f28709253" />
+
+
 
 
 ## Architecture
